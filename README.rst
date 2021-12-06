@@ -2,7 +2,7 @@ Fork updates:
 
 Two docker repositories have been created:
 
-Docker repository to use: https://hub.docker.com/repository/docker/njlochner/nozama-cloudsearch-fork - Created from directly modifying the source inside of the original docker image from 'oisinmulvihill' with the changes in this git repository, then pushing the updated image to Docker.
+Docker repository to use: https://hub.docker.com/repository/docker/njlochner/nozama-cloudsearch-fork - Created from directly modifying the source inside of the original docker image from 'oisinmulvihill' with the Python change in this git repository, then pushing the updated image to Docker.
 
 Not working: https://hub.docker.com/repository/docker/njlochner/nozama-cloudsearch contains a docker image built from this source, however it contains errors and is not working currently with other image/package versions being used in LPi's projects.
 
