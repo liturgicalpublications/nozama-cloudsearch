@@ -1,6 +1,6 @@
 Fork updates:
 
-Code change: https://github.com/liturgicalpublications/nozama-cloudsearch/commit/0478e263a5f2400e5c56a9eb9838e0da0897bf1f
+Code change: https://github.com/njlochner/nozama-cloudsearch/commit/0478e263a5f2400e5c56a9eb9838e0da0897bf1f
 
 Two docker repositories have been created:
 
