@@ -1,5 +1,7 @@
 Fork updates:
 
+Code change: https://github.com/liturgicalpublications/nozama-cloudsearch/commit/0478e263a5f2400e5c56a9eb9838e0da0897bf1f
+
 Two docker repositories have been created:
 
 Docker repository to use: https://hub.docker.com/repository/docker/njlochner/nozama-cloudsearch-fork - Created from directly modifying the source inside of the original docker image from 'oisinmulvihill' with the Python change in this git repository, then pushing the updated image to Docker.
