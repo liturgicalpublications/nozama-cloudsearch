@@ -1,6 +1,6 @@
 Fork updates:
 
-Code change: https://github.com/njlochner/nozama-cloudsearch/commit/0478e263a5f2400e5c56a9eb9838e0da0897bf1f
+Code change to fix HTTP 500 being thrown when a document is deleted and a new document is uploaded with the same ID: https://github.com/njlochner/nozama-cloudsearch/commit/0478e263a5f2400e5c56a9eb9838e0da0897bf1f
 
 Two docker repositories have been created:
 
