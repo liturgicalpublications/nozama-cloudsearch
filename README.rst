@@ -8,6 +8,8 @@ Docker repository to use: https://hub.docker.com/repository/docker/njlochner/noz
 
 Version with digest `sha256:b1851b52651922d9d3f8cea21dab9e3784b53655082956d37639ac64d985e707` of above image works with LPi's projects.
 
+If any source changes in this repo need to be applied to a docker image, it is recommended that the source code is modified directly in the above image, and then the modified image is uploaded as a new version to a docker repository. I attempted to build a docker image from source, but due to version differences with tools on my machine, it caused issues. See below.
+
 Not working: https://hub.docker.com/repository/docker/njlochner/nozama-cloudsearch contains a docker image built from this source, however it contains errors and is not working currently with other image/package versions being used in LPi's projects.
 
 
